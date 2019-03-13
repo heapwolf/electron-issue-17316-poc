@@ -1,0 +1,14 @@
+{
+  "name": "buckets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ./main.js"
+  },
+  "private": true,
+  "devDependencies": {
+    "electron": "^4.0.8"
+  },
+  "dependencies": {}
+}
